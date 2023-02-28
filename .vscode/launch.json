@@ -1,0 +1,148 @@
+{
+  // Olası öznitelikler hakkında bilgi edinmek için IntelliSense kullanın.
+  // Mevcut özniteliklerin açıklamalarını görüntülemek için üzerine gelin.
+  // Daha fazla bilgi için şu adresi ziyaret edin: https://go.microsoft.com/fwlink/?linkid=830387
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "Run Android Hermes - Experimental",
+      "request": "launch",
+      "type": "reactnativedirect",
+      "cwd": "${workspaceFolder}",
+      "enableDebug": false,
+      "platform": "android"
+    },
+    {
+      "name": "Run Android Hermes - Experimental",
+      "request": "launch",
+      "type": "reactnativedirect",
+      "cwd": "${workspaceFolder}",
+      "enableDebug": false,
+      "platform": "android"
+    },
+    {
+      "name": "Run Android Hermes - Experimental",
+      "request": "launch",
+      "type": "reactnativedirect",
+      "cwd": "${workspaceFolder}",
+      "enableDebug": false,
+      "platform": "android"
+    },
+    {
+      "name": "Run Android Hermes - Experimental",
+      "request": "launch",
+      "type": "reactnativedirect",
+      "cwd": "${workspaceFolder}",
+      "enableDebug": false,
+      "platform": "android"
+    },
+    {
+      "name": "Run Android Hermes - Experimental",
+      "request": "launch",
+      "type": "reactnativedirect",
+      "cwd": "${workspaceFolder}",
+      "enableDebug": false,
+      "platform": "android"
+    },
+    {
+      "name": "Run Android Hermes - Experimental",
+      "request": "launch",
+      "type": "reactnativedirect",
+      "cwd": "${workspaceFolder}",
+      "enableDebug": false,
+      "platform": "android"
+    },
+    {
+      "name": "Attach to Chrome",
+      "port": 9222,
+      "request": "attach",
+      "type": "chrome",
+      "webRoot": "${workspaceFolder}"
+    },
+    {
+      "name": "Attach to Chrome",
+      "port": 9222,
+      "request": "attach",
+      "type": "chrome",
+      "webRoot": "${workspaceFolder}"
+    },
+    {
+      "name": "Attach to Chrome",
+      "port": 9222,
+      "request": "attach",
+      "type": "chrome",
+      "webRoot": "${workspaceFolder}"
+    },
+    {
+      "name": "Attach to Chrome",
+      "port": 9222,
+      "request": "attach",
+      "type": "chrome",
+      "webRoot": "${workspaceFolder}"
+    },
+    {
+      "name": "Attach to Chrome",
+      "port": 9222,
+      "request": "attach",
+      "type": "chrome",
+      "webRoot": "${workspaceFolder}"
+    },
+    {
+      "name": "Attach to Chrome",
+      "port": 9222,
+      "request": "attach",
+      "type": "chrome",
+      "webRoot": "${workspaceFolder}"
+    },
+    {
+      "name": "Attach to Chrome",
+      "port": 9222,
+      "request": "attach",
+      "type": "chrome",
+      "webRoot": "${workspaceFolder}"
+    },
+    {
+      "name": "Attach to Chrome",
+      "port": 9222,
+      "request": "attach",
+      "type": "chrome",
+      "webRoot": "${workspaceFolder}"
+    },
+
+    {
+      "name": "Attach to Chrome",
+      "port": 9222,
+      "request": "attach",
+      "type": "chrome",
+      "webRoot": "${workspaceFolder}"
+    },
+    {
+      "name": "Attach to Chrome",
+      "port": 9222,
+      "request": "attach",
+      "type": "chrome",
+      "webRoot": "${workspaceFolder}"
+    },
+    {
+      "name": "Attach to Chrome",
+      "port": 9222,
+      "request": "attach",
+      "type": "chrome",
+      "webRoot": "${workspaceFolder}"
+    },
+    {
+      "name": "Attach to Chrome",
+      "port": 9222,
+      "request": "attach",
+      "type": "chrome",
+      "webRoot": "${workspaceFolder}"
+    },
+    {
+      "type": "node",
+      "request": "launch",
+      "name": "Programı Başlat",
+      "skipFiles": ["<node_internals>/**"],
+      "program": "${file}"
+    }
+  ]
+}
